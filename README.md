@@ -78,21 +78,11 @@ The **BoAT Infra Arch** development framework adopts a layered structure, consis
 ### Release Information
 For a complete list of new features, please visit the [Release Information](https://github.com/boat-x/BoAT-EdgeDocs/blob/main/BoATInfraArch_Releases.md).
 
-### Project Status Updates
-For project status updates, please visit the [Project Status Update](https://github.com/boat-x/project-status-update).
-
 ### List of Supported BoAT Blockchain IoT Modules
 For a list of supported BoAT Blockchain IoT modules, please refer to the [Supported List](./SUPPORTED_LIST.md).
 
 ## Documentation
 
-### BoAT Blockchain IoT Module White Paper
-Visit the [BoAT Blockchain IoT Module Product White Paper](https://boat-x.github.io/BoAT-EdgeDocs/en-us/BoAT_Blockchain_IoT_Module_Product_White_Paper_en.pdf).
-
-### BoAT Blockchain IoT Module Technology and Application
-Visit the [BoAT Blockchain IoT Module Technology and Application](https://boat-x.github.io/BoAT-EdgeDocs/en-us/BoAT_Blockchain_IoT_Module_Technology_and_Application_en.pdf).
-
-### Documentation Index
 For the complete documentation index, please visit the [BoAT Documentation](https://boat-x.github.io/BoAT-EdgeDocs).
 
 
