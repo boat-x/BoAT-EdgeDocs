@@ -90,9 +90,12 @@ For the complete documentation index, please visit the [BoAT Documentation](http
 ## Community
 Community related information:
 + Home Page: https://www.tlay.io
+
 + Contact Email: info@tlay.io
+
 + News: https://medium.com/@tlay_io
-+ LinkedIn: https://www.linkedin.com/company/aitos-io
+
+
 
 ## Community Contributions
 Community contributions from core team members are welcome, including (but not limited to) style/defect fixes, feature implementations, suggestions for solutions/algorithms, and documentation updates.
